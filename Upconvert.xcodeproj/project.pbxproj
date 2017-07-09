@@ -37,6 +37,7 @@
 		84494A931F118B0F00B09B6B /* UpconvertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UpconvertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84494A981F118B0F00B09B6B /* BinaryIntegerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryIntegerTests.swift; sourceTree = "<group>"; };
 		84494A9A1F118B0F00B09B6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8473DE3E1F11EB9000AC31EF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		849911751F1191B6001556B9 /* KeyPathTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyPathTests.swift; sourceTree = "<group>"; };
 		849911771F11AF38001556B9 /* UpconvertibleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpconvertibleTests.swift; sourceTree = "<group>"; };
 		849911791F11D5EF001556B9 /* KeyPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyPath.swift; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 		84494A801F118B0F00B09B6B = {
 			isa = PBXGroup;
 			children = (
+				8473DE3E1F11EB9000AC31EF /* README.md */,
 				84494A8C1F118B0F00B09B6B /* Upconvert */,
 				84494A971F118B0F00B09B6B /* UpconvertTests */,
 				84494A8B1F118B0F00B09B6B /* Products */,
