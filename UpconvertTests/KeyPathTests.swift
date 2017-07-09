@@ -3,7 +3,7 @@
 //  UpconvertTests
 //
 //  Created by Brent Royal-Gordon on 7/8/17.
-//  Copyright © 2017 Architechies. All rights reserved.
+//  Copyright © 2017 Architechies. Distributed under the MIT License.
 //
 
 import XCTest
