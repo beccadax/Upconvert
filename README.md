@@ -49,6 +49,8 @@ Just clone it and put the project into Xcode. Pull requests to support package m
 
 * The `Int` and `UInt` conversion sequences don't support the new `DoubleWidth` type due to limitations in its current implementation.
 
+* This design is bleeding-edge; don't consider the interface to be stable yet.
+
 ## Author
 
 [Brent Royal-Gordon](https://github.com/brentdax), Architechies.
