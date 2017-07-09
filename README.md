@@ -1,6 +1,6 @@
 #  Upconvert: conveniently perform safe conversions
 
-The `Upconvert` framework allows convenient, lossless conversions between different types in Swift. Conversion is performed using the upconversion operator, `^`:
+The `Upconvert` framework allows convenient, lossless conversions between different types in Swift 4. Conversion is performed using the upconversion operator, `^`:
 
 ```swift
 let small: Int8 = 1
